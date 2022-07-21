@@ -4,15 +4,6 @@ import (
 	"fmt"
 )
 
-// Problem :
-
-// Make a function with the following output :
-// Output code :
-
-// xoxox
-// oxoxo
-// xoxox
-
 func main() {
 	var x, y int
 
